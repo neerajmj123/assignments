@@ -10,8 +10,6 @@
     text-align: center;
     
 }
-.box1{
-}
 .box2{
     height: 20px;
     background-color: #38393b;
@@ -32,4 +30,13 @@ ul li a{
     color: white;
     display: inline;
     text-decoration: none;
+}
+.box3{
+    height: 50px;
+    background-color: whitesmoke;
+    
+}
+p{
+    text-align: center;
+    
 }
