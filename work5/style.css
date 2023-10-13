@@ -32,11 +32,18 @@ ul li a{
     text-decoration: none;
 }
 .box3{
-    height: 50px;
+    height:100px;
     background-color: whitesmoke;
     
 }
-p{
+.p1{
     text-align: center;
+    height:100vh;
+    background-color: whitesmoke;
+    
+}
+.common{
+    height: 20px;
+    background-color: #38393b;
     
 }
