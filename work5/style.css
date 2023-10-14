@@ -52,8 +52,10 @@ ul li a{
     background-color: #38393b;
     padding-top: 5px;
 }
-.box3.1{
-    height: 50vh;
+.innerbox{
+    height: 100vh;
+    background-color: rgb(211, 203, 203);
+    margin-left: 50px;
+    margin-right: 50px;
     
-
 }
