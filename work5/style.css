@@ -5,17 +5,21 @@
 }
 
 .head{
+    height: 60px;
     background-color:#2b2929;
     color: white;
     text-align: center;
+    padding-top: 15px;
     
 }
 .box2{
-    height: 20px;
+    height: 30px;
     background-color: #38393b;
+    padding-top: 5px;
+    
 }
 
-ul {
+ul{
     color: white;
     text-align: center;
     margin: auto;
@@ -32,18 +36,24 @@ ul li a{
     text-decoration: none;
 }
 .box3{
-    height:100px;
-    background-color: whitesmoke;
-    
-}
-.p1{
-    text-align: center;
     height:100vh;
-    background-color: whitesmoke;
-    
+    background-color: rgb(241, 233, 233);
+}
+.h{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.h a{
+    text-decoration: none;
+    color: ;
 }
 .common{
-    height: 20px;
+    height: 30px;
     background-color: #38393b;
+    padding-top: 5px;
+}
+.box3.1{
+    height: 50vh;
     
+
 }
